@@ -1,6 +1,8 @@
 from tkinter import Frame
 from turtle import right
 import cv2
+
+#importing Facerec code
 from simple_facerec import SimpleFacerec
 
 sfr = SimpleFacerec()
